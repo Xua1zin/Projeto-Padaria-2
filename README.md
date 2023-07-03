@@ -5,5 +5,6 @@ Terceiro projeto mensal da faculdade de Engenharia de Software.
  
 Durante o segundo o mês aprendemos: Loop, Struct e Matrizes (array).
 
+
 Aqui estão os requisitos:
 [Sistema da Berenice Pt 2.docx.pdf](https://github.com/Xua1zin/Projeto-Padaria-2/files/11933992/Sistema.da.Berenice.Pt.2.docx.pdf)
